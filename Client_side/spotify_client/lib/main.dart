@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:spotify_client/core/theme/theme.dart';
 
 import 'features/auth/view/pages/signup_page.dart';
-// import 'package:spotify_client/view/pages/signup_page.dart';
+
 
 void main() {
   runApp(const MyApp());
